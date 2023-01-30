@@ -4,7 +4,7 @@
   font-size: 11px;
   background: #fff;
   animation: escaleY 1s infinite ease-in-out;
-  width: 1em;
+  width: 2px;
   height: 4em;
   animation-delay: -0.16s;
 }
@@ -15,7 +15,7 @@
   top: 0;
   left: 2em;
   background: #fff;
-  width: 1em;
+  width: 2px;
   height: 4em;
   animation: escaleY 1s infinite ease-in-out;
 }
