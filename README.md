@@ -1,6 +1,6 @@
 # CSS Loader
 
-This is a combination of css spinners and loaders
+This is a collection of css spinners and loaders that you can use in your projects
 
 ## How to use
 
