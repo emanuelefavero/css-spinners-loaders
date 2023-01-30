@@ -17,3 +17,7 @@ This is a collection of css spinners and loaders that you can use in your projec
 ## More Loaders
 
 - [https://cssloaders.github.io/](https://cssloaders.github.io/)
+
+## License
+
+- [MIT](LICENSE.md)
