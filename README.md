@@ -1,4 +1,4 @@
-# CSS Loader
+# CSS Spinners and Loaders
 
 This is a collection of css spinners and loaders that you can use in your projects
 
